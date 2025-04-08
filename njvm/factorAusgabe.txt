@@ -1,0 +1,404 @@
+Ninja Virtual Machine started
+----------------------------------------------------------------
+10^1+1 = 11 = 
+factorize(11)
+detected small prime factor 11
+the number has been completely factorized
+11
+check: product = 11
+----------------------------------------------------------------
+10^2+1 = 101 = 
+factorize(101)
+detected small prime factor 101
+the number has been completely factorized
+101
+check: product = 101
+----------------------------------------------------------------
+10^3+1 = 1001 = 
+factorize(1001)
+detected small prime factor 7
+detected small prime factor 11
+detected small prime factor 13
+the number has been completely factorized
+7 * 11 * 13
+check: product = 1001
+----------------------------------------------------------------
+10^4+1 = 10001 = 
+factorize(10001)
+detected small prime factor 73
+detected small prime factor 137
+the number has been completely factorized
+73 * 137
+check: product = 10001
+----------------------------------------------------------------
+10^5+1 = 100001 = 
+factorize(100001)
+detected small prime factor 11
+detected small prime factor 9091
+the number has been completely factorized
+11 * 9091
+check: product = 100001
+----------------------------------------------------------------
+10^6+1 = 1000001 = 
+factorize(1000001)
+detected small prime factor 101
+detected small prime factor 9901
+the number has been completely factorized
+101 * 9901
+check: product = 1000001
+----------------------------------------------------------------
+10^7+1 = 10000001 = 
+factorize(10000001)
+detected small prime factor 11
+detected small prime factor 909091
+the number has been completely factorized
+11 * 909091
+check: product = 10000001
+----------------------------------------------------------------
+10^8+1 = 100000001 = 
+factorize(100000001)
+detected small prime factor 17
+detected small prime factor 5882353
+the number has been completely factorized
+17 * 5882353
+check: product = 100000001
+----------------------------------------------------------------
+10^9+1 = 1000000001 = 
+factorize(1000000001)
+detected small prime factor 7
+detected small prime factor 11
+detected small prime factor 13
+detected small prime factor 19
+detected small prime factor 52579
+the number has been completely factorized
+7 * 11 * 13 * 19 * 52579
+check: product = 1000000001
+----------------------------------------------------------------
+10^10+1 = 10000000001 = 
+factorize(10000000001)
+detected small prime factor 101
+detected small prime factor 3541
+detected small prime factor 27961
+the number has been completely factorized
+101 * 3541 * 27961
+check: product = 10000000001
+----------------------------------------------------------------
+10^11+1 = 100000000001 = 
+factorize(100000000001)
+detected small prime factor 11
+detected small prime factor 11
+detected small prime factor 23
+detected small prime factor 4093
+detected small prime factor 8779
+the number has been completely factorized
+11 * 11 * 23 * 4093 * 8779
+check: product = 100000000001
+----------------------------------------------------------------
+10^12+1 = 1000000000001 = 
+factorize(1000000000001)
+detected small prime factor 73
+detected small prime factor 137
+detected small prime factor 99990001
+the number has been completely factorized
+73 * 137 * 99990001
+check: product = 1000000000001
+----------------------------------------------------------------
+10^13+1 = 10000000000001 = 
+factorize(10000000000001)
+detected small prime factor 11
+detected small prime factor 859
+interim result:
+    the remaining factor 1058313049
+    doesn't have any prime factors < 10000
+    and is very probably prime
+cannot prove the primality of 1058313049, giving up
+11 * 859 * 1058313049
+check: product = 10000000000001
+----------------------------------------------------------------
+10^14+1 = 100000000000001 = 
+factorize(100000000000001)
+detected small prime factor 29
+detected small prime factor 101
+detected small prime factor 281
+interim result:
+    the remaining factor 121499449
+    doesn't have any prime factors < 10000
+    and is very probably prime
+cannot prove the primality of 121499449, giving up
+29 * 101 * 281 * 121499449
+check: product = 100000000000001
+----------------------------------------------------------------
+10^15+1 = 1000000000000001 = 
+factorize(1000000000000001)
+detected small prime factor 7
+detected small prime factor 11
+detected small prime factor 13
+detected small prime factor 211
+detected small prime factor 241
+detected small prime factor 2161
+detected small prime factor 9091
+the number has been completely factorized
+7 * 11 * 13 * 211 * 241 * 2161 * 9091
+check: product = 1000000000000001
+----------------------------------------------------------------
+10^16+1 = 10000000000000001 = 
+factorize(10000000000000001)
+detected small prime factor 353
+detected small prime factor 449
+detected small prime factor 641
+detected small prime factor 1409
+detected small prime factor 69857
+the number has been completely factorized
+353 * 449 * 641 * 1409 * 69857
+check: product = 10000000000000001
+----------------------------------------------------------------
+10^17+1 = 100000000000000001 = 
+factorize(100000000000000001)
+detected small prime factor 11
+detected small prime factor 103
+detected small prime factor 4013
+interim result:
+    the remaining factor 21993833369
+    doesn't have any prime factors < 10000
+    and is very probably prime
+cannot prove the primality of 21993833369, giving up
+11 * 103 * 4013 * 21993833369
+check: product = 100000000000000001
+----------------------------------------------------------------
+10^18+1 = 1000000000000000001 = 
+factorize(1000000000000000001)
+detected small prime factor 101
+detected small prime factor 9901
+interim result:
+    the remaining factor 999999000001
+    doesn't have any prime factors < 10000
+    and is very probably prime
+cannot prove the primality of 999999000001, giving up
+101 * 9901 * 999999000001
+check: product = 1000000000000000001
+----------------------------------------------------------------
+10^19+1 = 10000000000000000001 = 
+factorize(10000000000000000001)
+detected small prime factor 11
+interim result:
+    the remaining factor 909090909090909091
+    doesn't have any prime factors < 10000
+    and is very probably prime
+cannot prove the primality of 909090909090909091, giving up
+11 * 909090909090909091
+check: product = 10000000000000000001
+----------------------------------------------------------------
+10^20+1 = 100000000000000000001 = 
+factorize(100000000000000000001)
+detected small prime factor 73
+detected small prime factor 137
+interim result:
+    the remaining factor 9999000099990001
+    doesn't have any prime factors < 10000
+    but is definitely composite
+this number can be split into 1676321 and 5964848081
+factorize(1676321)
+detected small prime factor 1676321
+the number has been completely factorized
+factorize(5964848081)
+interim result:
+    the remaining factor 5964848081
+    doesn't have any prime factors < 10000
+    and is very probably prime
+cannot prove the primality of 5964848081, giving up
+73 * 137 * 1676321 * 5964848081
+check: product = 100000000000000000001
+----------------------------------------------------------------
+10^21+1 = 1000000000000000000001 = 
+factorize(1000000000000000000001)
+detected small prime factor 7
+detected small prime factor 7
+detected small prime factor 11
+detected small prime factor 13
+detected small prime factor 127
+detected small prime factor 2689
+interim result:
+    the remaining factor 417900950881
+    doesn't have any prime factors < 10000
+    but is definitely composite
+this number can be split into 909091 and 459691
+factorize(909091)
+detected small prime factor 909091
+the number has been completely factorized
+factorize(459691)
+detected small prime factor 459691
+the number has been completely factorized
+7 * 7 * 11 * 13 * 127 * 2689 * 459691 * 909091
+check: product = 1000000000000000000001
+----------------------------------------------------------------
+10^22+1 = 10000000000000000000001 = 
+factorize(10000000000000000000001)
+detected small prime factor 89
+detected small prime factor 101
+interim result:
+    the remaining factor 1112470797641561909
+    doesn't have any prime factors < 10000
+    but is definitely composite
+this number can be split into 1056689261 and 1052788969
+factorize(1056689261)
+interim result:
+    the remaining factor 1056689261
+    doesn't have any prime factors < 10000
+    and is very probably prime
+cannot prove the primality of 1056689261, giving up
+factorize(1052788969)
+interim result:
+    the remaining factor 1052788969
+    doesn't have any prime factors < 10000
+    and is very probably prime
+cannot prove the primality of 1052788969, giving up
+89 * 101 * 1052788969 * 1056689261
+check: product = 10000000000000000000001
+----------------------------------------------------------------
+10^23+1 = 100000000000000000000001 = 
+factorize(100000000000000000000001)
+detected small prime factor 11
+detected small prime factor 47
+detected small prime factor 139
+detected small prime factor 2531
+interim result:
+    the remaining factor 549797184491917
+    doesn't have any prime factors < 10000
+    and is very probably prime
+cannot prove the primality of 549797184491917, giving up
+11 * 47 * 139 * 2531 * 549797184491917
+check: product = 100000000000000000000001
+----------------------------------------------------------------
+10^24+1 = 1000000000000000000000001 = 
+factorize(1000000000000000000000001)
+detected small prime factor 17
+interim result:
+    the remaining factor 58823529411764705882353
+    doesn't have any prime factors < 10000
+    but is definitely composite
+this number can be split into 5882353 and 9999999900000001
+factorize(5882353)
+detected small prime factor 5882353
+the number has been completely factorized
+factorize(9999999900000001)
+interim result:
+    the remaining factor 9999999900000001
+    doesn't have any prime factors < 10000
+    and is very probably prime
+cannot prove the primality of 9999999900000001, giving up
+17 * 5882353 * 9999999900000001
+check: product = 1000000000000000000000001
+----------------------------------------------------------------
+10^25+1 = 10000000000000000000000001 = 
+factorize(10000000000000000000000001)
+detected small prime factor 11
+detected small prime factor 251
+detected small prime factor 5051
+detected small prime factor 9091
+interim result:
+    the remaining factor 78875943472201
+    doesn't have any prime factors < 10000
+    and is very probably prime
+cannot prove the primality of 78875943472201, giving up
+11 * 251 * 5051 * 9091 * 78875943472201
+check: product = 10000000000000000000000001
+----------------------------------------------------------------
+10^26+1 = 100000000000000000000000001 = 
+factorize(100000000000000000000000001)
+detected small prime factor 101
+detected small prime factor 521
+interim result:
+    the remaining factor 1900381976777332243781
+    doesn't have any prime factors < 10000
+    and is very probably prime
+cannot prove the primality of 1900381976777332243781, giving up
+101 * 521 * 1900381976777332243781
+check: product = 100000000000000000000000001
+----------------------------------------------------------------
+10^27+1 = 1000000000000000000000000001 = 
+factorize(1000000000000000000000000001)
+detected small prime factor 7
+detected small prime factor 11
+detected small prime factor 13
+detected small prime factor 19
+interim result:
+    the remaining factor 52578999947421000052579
+    doesn't have any prime factors < 10000
+    but is definitely composite
+this number can be split into 52579 and 999999999000000001
+factorize(52579)
+detected small prime factor 52579
+the number has been completely factorized
+factorize(999999999000000001)
+interim result:
+    the remaining factor 999999999000000001
+    doesn't have any prime factors < 10000
+    but is definitely composite
+this number can be split into 70541929 and 14175966169
+factorize(70541929)
+detected small prime factor 70541929
+the number has been completely factorized
+factorize(14175966169)
+interim result:
+    the remaining factor 14175966169
+    doesn't have any prime factors < 10000
+    and is very probably prime
+cannot prove the primality of 14175966169, giving up
+7 * 11 * 13 * 19 * 52579 * 70541929 * 14175966169
+check: product = 1000000000000000000000000001
+----------------------------------------------------------------
+10^28+1 = 10000000000000000000000000001 = 
+factorize(10000000000000000000000000001)
+detected small prime factor 73
+detected small prime factor 137
+detected small prime factor 7841
+interim result:
+    the remaining factor 127522001020150503761
+    doesn't have any prime factors < 10000
+    and is very probably prime
+cannot prove the primality of 127522001020150503761, giving up
+73 * 137 * 7841 * 127522001020150503761
+check: product = 10000000000000000000000000001
+----------------------------------------------------------------
+10^29+1 = 100000000000000000000000000001 = 
+factorize(100000000000000000000000000001)
+detected small prime factor 11
+detected small prime factor 59
+interim result:
+    the remaining factor 154083204930662557781201849
+    doesn't have any prime factors < 10000
+    and is very probably prime
+cannot prove the primality of 154083204930662557781201849, giving up
+11 * 59 * 154083204930662557781201849
+check: product = 100000000000000000000000000001
+----------------------------------------------------------------
+10^30+1 = 1000000000000000000000000000001 = 
+factorize(1000000000000000000000000000001)
+detected small prime factor 61
+detected small prime factor 101
+detected small prime factor 3541
+detected small prime factor 9901
+interim result:
+    the remaining factor 4629603566654784001
+    doesn't have any prime factors < 10000
+    but is definitely composite
+this number can be split into 27961 and 165573604901641
+factorize(27961)
+detected small prime factor 27961
+the number has been completely factorized
+factorize(165573604901641)
+interim result:
+    the remaining factor 165573604901641
+    doesn't have any prime factors < 10000
+    but is definitely composite
+this number can be split into 4188901 and 39526741
+factorize(4188901)
+detected small prime factor 4188901
+the number has been completely factorized
+factorize(39526741)
+detected small prime factor 39526741
+the number has been completely factorized
+61 * 101 * 3541 * 9901 * 27961 * 4188901 * 39526741
+check: product = 1000000000000000000000000000001
+----------------------------------------------------------------
+Ninja Virtual Machine stopped
